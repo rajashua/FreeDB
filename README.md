@@ -1,7 +1,8 @@
 ### FreeDB Ver 1.0
 
 This is FreeDB System by ASDF-BlackTech
-Open Source system but please do not sell this
+Open Source system
+You can use this at Web DB, Program DB
 
 <!--
 **rajashua/rajashua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
